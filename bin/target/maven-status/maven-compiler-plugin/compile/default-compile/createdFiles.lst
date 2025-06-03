@@ -1,0 +1,5 @@
+com\umg\mydbconection\ConexionMySQL.class
+MongoDBLogger\MongoDBLogger.class
+module-info.class
+com\umg\mydbconection\SystemInfo.class
+com\umg\mydbconection\DatabaseOperations.class
